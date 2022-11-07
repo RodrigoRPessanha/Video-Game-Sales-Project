@@ -1,0 +1,38 @@
+Brain Age 2: More Training in Minutes a Day,DS,2005,15.3
+Brain Age: Train Your Brain in Minutes a Day,DS,2005,20.22
+Call of Duty: Black Ops,X360,2010,14.64
+Call of Duty: Black Ops 3,PS4,2015,14.24
+Call of Duty: Black Ops II,X360,2012,13.73
+Call of Duty: Black Ops II,PS3,2012,14.03
+Call of Duty: Modern Warfare 2,X360,2009,13.51
+Call of Duty: Modern Warfare 3,PS3,2011,13.46
+Call of Duty: Modern Warfare 3,X360,2011,14.76
+Duck Hunt,NES,1984,28.31
+Gran Turismo 3: A-Spec,PS2,2001,14.98
+Grand Theft Auto V,X360,2013,16.38
+Grand Theft Auto V,PS3,2013,21.4
+Grand Theft Auto: San Andreas,PS2,2004,20.81
+Grand Theft Auto: Vice City,PS2,2002,16.15
+Kinect Adventures!,X360,2010,21.82
+Mario Kart DS,DS,2005,23.42
+Mario Kart Wii,Wii,2008,35.82
+New Super Mario Bros.,DS,2006,30.01
+New Super Mario Bros. Wii,Wii,2009,28.62
+Nintendogs,DS,2005,24.76
+Pokemon Black/Pokemon White,DS,2010,15.32
+Pokemon Diamond/Pokemon Pearl,DS,2006,18.36
+Pokemon Gold/Pokemon Silver,GB,1999,23.1
+Pokemon Red/Pokemon Blue,GB,1996,31.37
+Pokemon Ruby/Pokemon Sapphire,GBA,2002,15.85
+Pokemon X/Pokemon Y,3DS,2013,14.35
+Pokémon Yellow: Special Pikachu Edition,GB,1998,14.64
+Super Mario Bros.,NES,1985,40.24
+Super Mario Bros. 3,NES,1988,17.28
+Super Mario Land,GB,1989,18.14
+Super Mario World,SNES,1990,20.61
+Tetris,GB,1989,30.26
+Wii Fit,Wii,2007,22.72
+Wii Fit Plus,Wii,2009,22.0
+Wii Play,Wii,2006,29.02
+Wii Sports,Wii,2006,82.74
+Wii Sports Resort,Wii,2009,33.0
